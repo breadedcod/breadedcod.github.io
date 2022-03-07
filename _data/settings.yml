@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Breadedcod.com
-  site_tagline: A adhoc miscellany of random thoughts and ideas. Sometimes they even make sense.
+  site_tagline: A miscellany of random thoughts and ideas. Sometimes they might even make sense. Sold as seen. No refunds.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,8 +12,8 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Projects'
-      url: '/projects/'
+#    - title: 'Projects'
+#      url: '/projects/'
     - title: 'About'
       url: '/about'
     - title: 'Contact'
