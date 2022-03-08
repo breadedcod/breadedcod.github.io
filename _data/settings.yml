@@ -30,9 +30,9 @@ contact_settings:
 
 social_settings:
   facebook_url: ''
-  twitter_url: 'pauldhobson'
+  twitter_url: 'https://twitter.com/pauldhobson'
 <<<<<<< HEAD
-  instagram_url: 'plusonbikes'
+  instagram_url: 'https://instagram.com/plusonbikes'
 =======
   snapchat_url: ''
   youtube_url: ''
@@ -56,7 +56,7 @@ social_settings:
   soundcloud_url: ''
   spotify_url: ''
   bandcamp_url: ''
-  linkedin_url: '/in/pauldhobson'
+  linkedin_url: 'https://linkedin.com/in/pauldhobson'
 
 color_settings:
   background_color: '#ffffff'
