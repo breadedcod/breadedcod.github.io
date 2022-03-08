@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Breadedcod.com
-  site_tagline: A miscellany of random thoughts and ideas. Sometimes they might even make sense. Sold as seen. No refunds.
+  site_tagline: A miscellany of random thoughts and ideas. Sometimes they even make sense. Sold as seen. No refunds.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -31,7 +31,9 @@ contact_settings:
 social_settings:
   facebook_url: ''
   twitter_url: 'pauldhobson'
+<<<<<<< HEAD
   instagram_url: 'plusonbikes'
+=======
   snapchat_url: ''
   youtube_url: ''
   google-plus_url: ''
