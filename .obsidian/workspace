@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_posts/2022-03-06-Ski-Camp.md",
+            "file": "_pages/about.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2022-03-06-Ski-Camp.md",
+                "file": "_pages/about.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,9 +88,9 @@
   },
   "active": "5da82d5e05660dd8",
   "lastOpenFiles": [
+    "_pages/about.md",
     "_posts/2022-03-06-Ski-Camp.md",
     "_posts/2018-06-30-demo-post.md",
-    "_pages/about.md",
     "_posts/2022-03-07-rhys.md"
   ]
 }
