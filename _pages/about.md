@@ -15,6 +15,8 @@ I help organizations fight their digital entropy and focus on critical business 
 | Finance | Retail     | Government | Architecture        |
 | Law  | Non-Profit | Media and Marketing        | Healthcare          |
 
+### Publications
+
 ### And away from work
 I like to hang out in the hills riding bikes and skiing skis. Movement and open spaces are important to me.
 
